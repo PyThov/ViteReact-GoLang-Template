@@ -1,4 +1,4 @@
-module BudgeThov/api
+module template/api
 
 go 1.17
 
