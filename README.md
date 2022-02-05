@@ -3,7 +3,7 @@
 **User** :( -> **Frontend** -*requests*-> **API** -*requests*-> **Backend** -*responds*-> **API** -*responds*-> **Frontend** -> **User** :)
 
 ## Dev Setup
-Firstly, make sure that you have GoLang and NodeJS installed on your machine.
+Firstly, make sure that you have **GoLang** and **NodeJS** installed on your machine.
 
 Then, in whatever directory you choose...
 
